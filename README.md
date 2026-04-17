@@ -67,6 +67,10 @@ Para encerrar o cliente, digite `sair`.
 4. O servidor calcula o resultado e devolve a resposta.
 5. Varios clientes podem fazer isso ao mesmo tempo.
 
+## Demonstracao
+
+Ha um video no repositorio (`teste.mp4`) mostrando o projeto em funcionamento com servidor e cliente em maquinas diferentes.
+
 ## Observacoes para a apresentacao
 
 - O servidor usa `ServerSocket` para ficar aguardando conexoes.
