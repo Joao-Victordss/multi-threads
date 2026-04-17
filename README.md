@@ -69,7 +69,8 @@ Para encerrar o cliente, digite `sair`.
 
 ## Demonstracao
 
-Ha um video no repositorio (`teste.mp4`) mostrando o projeto em funcionamento com servidor e cliente em maquinas diferentes.
+Ha um video no link abaixo `teste.mp4` mostrando o projeto em funcionamento com servidor e cliente em maquinas diferentes.
+Link: https://drive.google.com/file/d/1IGimsrQRDj5M4E0S9RZhXL2wxrp_hGYE/view?usp=sharing
 
 ## Observacoes para a apresentacao
 
